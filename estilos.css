@@ -1,0 +1,158 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+header {
+    background-color: #053478;
+} 
+.logo {
+    width: 90px;
+    height: 90px;
+}
+.nav {
+    width: 100%;
+}
+.izquierda {
+    width: 50%;
+}
+.derecha {
+    width: 50%;
+    display: flex;
+}
+header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.left-hero {
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.left-hero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left-hero a {
+    width: 50%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.hero {
+    display:flex;
+    width: 100%;
+    height: 100%;
+}
+.center-hero img {
+    height: calc(100vh - 120px);
+    width: 100vw;
+}
+.img-hero {
+    width: 100%;
+    height: 100%;
+}
+
+.mision {
+    display: flex;
+    justify-content:space-around;
+}
+.mision-izquierda {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    
+}
+.mision-derecha {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.titulo-mision {
+    text-align: center;
+}
+.texto-mision{
+    width: 100%;
+}
+.imagen-mision {
+    width: 80%;
+    height: 100%;
+}
+.vision {
+    display: flex;
+    justify-content: space-around;
+}
+.vision-izquierda{
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.vision-derecha {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+}
+.titulo-vision {
+    text-align: center;
+}
+.texto-vision {
+    width: 100%;
+}
+.imagen-vision {
+    width: 80%;
+    height: 100%;
+}
+.bancoalim {
+    display: flex;
+    justify-content:space-around;
+}
+.bancoalim-izquierda {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    
+}
+.bancoalim-derecha {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.titulo-bancoalim {
+    text-align: center;
+}
+.texto-bancoalim{
+    width: 100%;
+}
+.imagen-bancoalim {
+    width: 80%;
+    height: 100%;
+}
+.piepag {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.rrss {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 50px
+}
+.imagen-footer {
+    width: 15vw;
+    height: 20vh;
+}
+.contenedorimagen-footer {
+    display: flex;
+    justify-content: center;
+}
+
