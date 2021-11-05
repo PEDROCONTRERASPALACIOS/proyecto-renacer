@@ -4,6 +4,7 @@ body {
 }
 header {
     background-color: #053478;
+    color:whitesmoke;
 } 
 .logo {
     width: 90px;
@@ -155,4 +156,13 @@ header {
     display: flex;
     justify-content: center;
 }
-
+.intro-quienes-somos {
+    display: block;
+    justify-content: center;
+    padding: 15px 50px;
+}
+.foto-quienes-somos {
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+}
