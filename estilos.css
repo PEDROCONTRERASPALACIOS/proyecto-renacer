@@ -156,12 +156,20 @@ header {
     display: flex;
     justify-content: center;
 }
+.titulo-quienes-somos {
+    background-color: cadetblue;
+}
 .intro-quienes-somos {
     display: block;
     justify-content: center;
-    padding: 15px 50px;
+    padding: 40px 50px;
 }
 .foto-quienes-somos {
-    width: 80vw;
-    height: 80vh;
+    width: 40vw;
+    height: 40vh;
+}
+.contenedor1-quienes-somos {
+display: flex;
+align-items: center;
+justify-content: space-around;
 }
